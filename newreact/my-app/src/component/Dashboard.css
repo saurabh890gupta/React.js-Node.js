@@ -1,0 +1,13 @@
+.table table-bordered table-hover table-striped{
+	table-layout: fixed;
+}
+.table-responsive thead tr th{
+	text-decoration: none;
+
+}
+
+ tbody tr td{
+  list-style-type: none;
+
+}
+  

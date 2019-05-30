@@ -1,0 +1,7 @@
+.page-head {
+    background: #494C53 url(../images/page-header.jpg) no-repeat scroll center top / cover;
+    color: #FFF;
+    position: relative;
+    min-height: 140px;
+    border: 1px solid black;
+}

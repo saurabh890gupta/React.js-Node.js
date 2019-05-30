@@ -1,0 +1,12 @@
+.banner-down{
+    width: 100%;
+    border:1px solid black;
+  }
+  .banner_section2{
+     height: 120px;
+    border:1px solid black;
+  }
+  #heading2{
+    padding-top: 10px;
+    text-align: center;
+  }

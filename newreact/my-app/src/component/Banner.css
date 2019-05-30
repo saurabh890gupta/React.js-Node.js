@@ -1,0 +1,94 @@
+.banner{
+  width: 100%;
+  /*border: 1px solid black;*/
+  background-image: url('../images/slide1/slider-image-4.jpg');
+
+  background-size: cover;
+  height: 777px;
+padding-top: 120px;
+}
+.banner-section{
+  text-align: center;
+  /*border: 1px solid black;*/
+
+}
+.banner-section h1{
+  font-size: 40px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: rgba(255, 165, 0, 0.71);
+    font-weight: 500;
+}
+
+.banner-section p{
+  font-size: 14px;
+    margin-bottom: 60px;
+    color: rgb(110, 110, 110);
+}
+
+.search-form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px 0;
+    border: 1px solid #E6E6E6;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    position: relative;
+    z-index: 9;
+}
+element.style {
+    visibility: visible;
+    animation-delay: 0.8s;
+    animation-name: pulse;
+}
+ 
+    .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: inherit;
+    line-height: 1;
+    font-family: FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+.form-inline{
+  display: inline;
+}
+.btn toggle-btn{
+  background-color: #FDC600;
+    color: #333;
+    font-size: 16px;
+    border: 1px solid #EAE9E9;
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    transition: all 0.3s ease 0s;
+    padding: 0px;
+}
+.btn{
+  font-weight: 400;
+    opacity: 0.8;
+}
+.form-control{
+  background: rgba(252, 252, 252, 0.35);
+    height: 40px;
+    margin-right: 10px;
+    
+}
+.search-toggle{
+  display: none;
+}
+.content-area {
+  padding-bottom: 60px;
+   background-color: rgb(252, 252, 252);
+}

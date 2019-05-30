@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "path": "^0.12.7",
+    "react": "^16.3.1",
+    "react-background-slideshow": "^1.0.4",
+    "react-dom": "^16.3.1",
+    "react-fileupload": "^2.4.0",
+    "react-image": "^1.3.1",
+    "react-image-slideshow": "^1.5.4",
+    "react-js-pagination": "^3.0.2",
+    "react-paginate": "^5.2.3",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "react-upload-file": "^2.0.0-beta.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

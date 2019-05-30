@@ -1,0 +1,45 @@
+ .register-area{
+    background-color: rgb(249, 249, 249);
+     padding: 40px;
+  }
+  .box-for{
+    padding: 10px 0px;
+    border: 1px solid #EEE;
+    transition: all 0.2s ease 0s;
+    box-shadow: none;
+    background-color: #FFF;
+}
+.box-for h2{
+  display: inline-block;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    background: transparent none repeat scroll 0% 0%;
+    border-bottom: 2px solid #FDC600;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.login-social{
+    background-color: #FDC600;
+    border: 1px solid black;
+    font-size: 23px;
+     display: inline-block;
+     font-size: inherit;
+}
+.login-social a:hover {
+    text-decoration: none;
+    color: white;
+}
+.login-social i {
+    font-size: 40px;
+    color: white;
+}
+.btn{
+  border-radius: 1px;/**/
+    border: 1px solid #FDC600;
+    color: #000;
+    background-color: #FDC600;
+    border-color: #F0F0F0;
+    font-weight: 600;
+
+}

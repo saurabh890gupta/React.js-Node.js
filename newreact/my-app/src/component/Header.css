@@ -1,0 +1,99 @@
+.container{
+}
+header{
+  width: 100%;
+  /*border:1px solid black;*/
+  text-align: center;
+   
+}
+#logo{
+ /* border:1px solid black;*/
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 20px;
+}
+.navbar{
+    /*border:1px solid black;*/
+   padding-top: 28px;
+   padding-left: 70px;
+  }
+.navbar nav ul li{
+  display: inline-block;
+}
+
+.navbar nav ul li{
+      color: #929292;
+    font-size: 20px;
+  padding-left: 34px;
+  text-decoration-color:#FDC600;
+  
+}
+
+
+ .lgbtn{
+   /* border:1px solid black;*/
+  
+padding-top: 33px;
+    
+  }
+  .dashlgbtn{
+   /* border:1px solid black;*/
+  border: 1px solid #c2c2c2;
+padding-top: 30px;
+border-radius: 5px;
+background-color: #c2c2c2;
+}
+ .dashlgbtn nav ul li{
+  display:inline-block;
+  padding-left: 20px;
+
+
+  }
+    
+  
+  .lgbtn nav ul li{
+  display: inline-block;
+  padding-left: 9px;
+ }
+
+   #signInBtn{
+  border:1px solid gray;
+  background-color:#c2c2c2;
+    padding: 10px 15px ;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+  #loginInBtn{
+    border:1px gray;
+  background-color: #FDC600;
+    padding: 13px 20px ;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+
+    }
+
+#home{
+  font-size: 20px;
+} 
+
+
+ #userpropertyBtn{
+  border:1px solid #FDC600;
+  background-color:#FDC600;
+    padding: 13px 20px ;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+  #usersignBtn{
+    border:1px solid #FDC600;
+  background-color: #FDC600;
+    padding: 13px 20px ;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+
+    }
+   
